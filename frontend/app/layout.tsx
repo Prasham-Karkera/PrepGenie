@@ -23,7 +23,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
+    <html lang="en">command:gitlens.graph.push?%7B%22webview%22%3A%22gitlens.views.graph%22%7D
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
